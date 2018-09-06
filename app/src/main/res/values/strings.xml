@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">VolatilityGame</string>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="error_message_city">Enter City</string>
+    <string name="error_message_mobile">Enter Contact Details</string>
+    <string name="error_message_arn">Enter ARN No.</string>
+    <string name="error_message_user_type">Choose an option</string>
+
+
+
+
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+
+    <string name="error_email_exists">Email Already Exists</string>
+
+    <string name="success_message">Registration Successful</string>
+
+    <string name="log_out">Log Out</string>
+
+    <string name="advisor">Authorized  \n Advisor</string>
+
+    <string name="how">How to Conduct \n Volatility Game</string>
+
+
+    <string name="q1">Why one should play Volatility Game for Wealth Creation?</string>
+    <string name="p1">We know that the sensex move up and down. This happens every 4 to 5 years. One thing to observe is that the sensex has moved up and closed high than the previous high in an average of 5 years.
+But it is interesting to know and understand the fall more than the growth. Most of the time the investors run away after the fall and they are not there to experience the next bull run.
+There for to make long term wealth one should play as many times as possible this game to get acquainted with this game. This game is made with the actual historical figures . Results are the actual figures. This will help the player to understand and become more aware financially.
+We see the PE ratio at all the peak of market has touched 24x+I (I means Incidental Error created due to some scripts which were manipulated). But with time this “I” is reducing and becoming insignificant.)
+The market came down after touching the peak in 1992 at 4200. The PE was 24+I=50x.
+Similarly during the high of 2000 technology boom in India the PE multiple was 24x+I=28x. In 2008 and 2015 whenever the high was touched it was 24x.
+The conclusion is that whenever the sensex/nifty valuation become over valued and reaches the bubble zone, it falls. The strategy here is to reduce the exposure to equity less and increase debt in your portfolio. This is a strategy where you sell high when PE multiple is high or at bubble zone. And buy when the valuation of market PE multiple is low. A simple PE scale is presented below for reference.
+Now if this Rebalancing strategy is followed, the question of emotion will never come. The emotions will be taken care of by a formula. If we as an individual are unable to do this rebalancing we should appoint an experienced financial advisor and choose a fund which deals in auto rebalancing of the portfolio on a regular basis. </string>]
+
+    <string name="q2">What is equity?</string>
+    <string name="p2">In accounting and finance, equity is the difference between the value of the assets, interest and the cost of the liabilities of something owned. For example if someone owns a car worth Rs 15,00,000 but owes Rs 5,00,000 on the car, the car represents Rs10,00,000 as equity (as defined in Wikipedia). </string>
+
+
+    <string name="q3">Terms to be understood before playing the Volatility Game?</string>
+    <string name="p3">If one can manage the game of volatility he can be most relaxed and create more wealth in the long run or short run also. But if someone in not managing volatility then he may get big returns for one or two years maybe but will not create more wealth in the long run. So, managing volatility is the key to wealth creation. </string>
+
+
+    <string name="q4">What is debt?</string>
+    <string name="p4">As per definition at www.investopedia.com when a firm raise money for working capital or capital expenditures by selling bonds, bills, or notes to individual and/or institutional investor. In return of lending money, the individual or institutions become creditors and receive a promise that the principal and interest on the debt will be repaid. I explain equity and debt in my own way. Mr A owns a plot of land with a factory on the premises and the valuation of the property as on a particular date is Rs 1 Cr. A similar type of plot is available next door to the owner. But this owner Mr A is not having that much money to buy the plot for his business expansion.
+Now Mr A approaches few of his friends for help, so that he can buy Rs 1 Crore plot for expansion. He has a friend Mr B who is interested in doing, the same business as Mr A is doing. After explanation from Mr A, the other Mr B is now to owner of land in willing to sell the piece of land for a partnership of 25% for the Rs 50 lakh stake. This money was given to Mr A as an equity for the 25% stake in the ownership of the company.
+Now Mr Barkat Ali wants to sell Factory B and its premises to Mr Ali for Rs 1Cr because he have identified a Project at Muscat and that investment mayl fetch him 500% return in 2-3 yrs.
+But Mr Ali has no extra money to expand. He approaches Mr Gulam Ali for finance. Mr Gulam Ali pays him Rs 50 lakh for a 25% stake in his company (Total Project of Rs 2 Cr and 25% of the project is Rs 50 lakh). Now Mr Gulam Ali is the Owner of 25% equity and will get share of profit to the extent of 25% in that company. Mr Ali needs another Rs 50 lakh to buy the Factory B of Mr Barkat Ali. He approaches Mr Daulat Ram Nopani to finance the balance Rs 50 Lakh. He Mr Ali agrees to pay a fixed interest of 12% on the agreed amount every 6 month. This is called Debt, which will be paid after a fixed period along with the interest. </string>
+
+
+    <string name="q5">Understanding some important financial Terms for the game</string>
+    <string name="p5">Nifty as Nifty 50 index is National Stock Exchange of India’s benchmark stock market index for Indian equity market. Nifty is owned and managed by India Index Services and Product (IISL) which is a wholly owned subsidiary of NSE strategic Investment Corporation Limited.Nifty or BSE or any index of a country is the mirror of the economy. It shows how a country’s economy is progressing or not progressing.
+PE Ration-Price- Earning Ratio-Definition as per Investopedia a ratio for valuing a company that measures its current share price relative to its per share earnings.
+Simple explanation is that PE is multiple of earnings reflected in price.
+PB ratio- Price to Book ratio is a ratio used to compare a stock’s market value to its book value. It is calculated by dividing the current closing price of the stock by the latest quarter’s book value per share.</string>
+
+
+    <string name="q6">Mutual Funds</string>
+<string name="p6">Mutual Funds -are a pool of money from large number of investor from different sphere of life. These are the people who invest in different asset class, based on a common objective.
+The money collected from all these people is managed by Mutual Fund Company also known as Asset Management Company (AMC). </string>
+
+
+    <string name="q7">How to Play the volatility Game?</string>
+    <string name="p7">When you press Go key you get three figures on the screen. The PE ratio, NIfty and PB ratio on a particular date. After getting the figures you need to allocate amount available into debt and equity as a percentage of allocation for One year. In debt portfolio you will get a fixed 10% return( assumed for this game) for one year. And equity will give you a return which is exact amount grown or de grown in one year . You will also know the year only after the results are declared when you press Invest and the final value is on the screen.
+The Game continues and the initial amount keeps growing or de growing based on your decision of asset allocation and re balancing.
+The idea of this game is to play more and more so that you can create wealth and learn asset re balancing. </string>
+
+
+    <string name="q8">The power of compounding</string>
+    <string name="p8">8th Wonder of The World-To Albert Einstein, the power of compounding was the 8th wonder of the world and its formula was the greatest mathematical formula that human mind had ever discovered. He went as far as to say, “Compound interest is the eighth wonder of the world. He who understands it, earns it... he who doesn’t, pays it.”
+And this statement is precisely true. The richest people of the world fully understand the significance of each factor and reap it’s benefits. The middle class are intellectually aware of it but does not pay attention to it or think about it and continue to pay it, the poor class is not even aware of it and is reduced to poverty by its power. This factor of compounding alone is the differentiator which creates the difference between the different economic classes. </string>
+
+
+    <string name="download">Download completed</string>
+    <string name="downloading">Download started</string>
+
+
+
+    <string name="event">
+        Date- 22nd Sept \n
+        Time- 11am to 5 pm \n
+        Venue- Hotel Orion West Willows. 2 West Range Kolkata-700017.\n
+        Near Tata Motor Lexus showroom and Trimurti petrol pump,oppsoite karnani estate(Between Thaeter Road and Bekbagan)\n
+        Other venues for September are:\n
+        6th Sept-Pune\n
+        14th Sept-Ahmedabad
+    </string>
+
+
+    <string name="note1">
+        Note:
+    </string>
+
+<string name="note2">
+    1) Total Investment amt for the game is Rs 10lakh
+</string>
+
+<string name="note3">
+    2) Period Of investment per round is -1yr
+</string>
+
+<string name="note4">
+    3) Assumed rate of return for Debt Fund is 10% pa
+</string>
+
+<string name="note5">
+    4) Returns Of Equity Will be based on the markets of that period
+</string>
+</resources>

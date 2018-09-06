@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+<android.support.v4.widget.NestedScrollView
+    android:id="@+id/nestedScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+
+    <android.support.v7.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark"
+            app:title="Investor Login"/>
+
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/textInputEditTextName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Name"
+                android:inputType="text"
+                android:maxLines="1"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="20dp"
+               android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@android:color/black"/>
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/textInputEditTextEmail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Email id"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:fontFamily="sans-serif-condensed"
+                android:inputType="text"
+                android:maxLines="1"
+                android:textColor="@android:color/black" />
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/textInputEditTextPassword"
+                android:layout_width="match_parent"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:hint="Password"
+                android:inputType="textPassword"
+                android:maxLines="1"
+                android:textColor="@android:color/black" />
+
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/textInputEditTextMobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Mobile No"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="20dp"
+                android:maxLines="1"
+                android:fontFamily="sans-serif-condensed"
+                android:textColor="@android:color/black" />
+
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/textInputEditTextCity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="City"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginTop="20dp"
+                android:maxLines="1"
+                android:textColor="@android:color/black" />
+
+
+        <RadioGroup
+            android:id="@+id/radioIg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="20dp"
+            >
+
+            <RadioButton
+                android:id="@+id/radioButtonIndian"
+                android:layout_width="wrap_content"
+                android:textSize="15sp"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:fontFamily="sans-serif-condensed"
+                android:textColor="@android:color/black"
+                android:text="indian" />
+
+
+            <RadioButton
+                android:id="@+id/radioButtonGlobal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:layout_marginLeft="20dp"
+                android:fontFamily="sans-serif-condensed"
+                android:textColor="@android:color/black"
+                android:text="global" />
+
+        </RadioGroup>
+
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/appCompatButtonRegister"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:background="@android:color/black"
+                android:textColor="@android:color/white"
+                android:text="REGISTER HERE"
+                android:layout_marginRight="10dp"
+                android:fontFamily="sans-serif-condensed"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="20dp"/>
+
+
+    </android.support.v7.widget.LinearLayoutCompat>
+
+
+</android.support.v4.widget.NestedScrollView>
+    <ProgressBar
+        android:visibility="gone"
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+
+</RelativeLayout>
